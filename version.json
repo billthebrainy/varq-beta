@@ -1,8 +1,8 @@
 {
-  "version": "4.5.0",
-  "name": "Varq Beta v4.5.0",
+  "version": "4.6.0",
+  "name": "Varq Beta v4.6.0",
   "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.5.0/varq-update-package.bin",
-  "installerUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.5.0/Varq-Beta-4.5.0-Setup.exe",
-  "notes": "✨ Replaced New Releases with Homebranch Library integration (Oghamark API), instant 1-click EPUB download & auto-import, and refined dark UI."
+  "downloadUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.0/varq-update-package.bin",
+  "installerUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.0/Varq-Beta-4.6.0-Setup.exe",
+  "notes": "✨ Headless Online Library: Browse & search thousands of popular titles with 1-click EPUB downloads\n✨ Clean minimal dark card layout without webview ads, donate buttons, or social widgets\n✨ Streamlined night-mode update dialog with gentle, eye-friendly warm accents"
 }
