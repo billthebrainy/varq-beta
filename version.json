@@ -1,8 +1,8 @@
 {
-  "version": "4.6.1",
-  "name": "Varq Beta v4.6.1",
+  "version": "4.6.2",
+  "name": "Varq Beta v4.6.2",
   "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.1/varq-update-package.bin",
-  "installerUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.1/Varq-Beta-4.6.1-Setup.exe",
-  "notes": "✨ Fixed category switching & genre filtering in Online Library\n✨ High-speed parallel search engine for instant book discovery\n✨ Universal extractor support for new releases and genre archives"
+  "downloadUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.2/varq-update-package.bin",
+  "installerUrl": "https://github.com/billthebrainy/varq-beta/releases/download/v4.6.2/Varq-Beta-4.6.2-Setup.exe",
+  "notes": "✨ Renamed to Get Books with clean text-only sidebar navigation\n✨ Completely eliminated corner captcha window and background glitches\n✨ Hardware-accelerated poster mask fixing round/square corner clipping\n✨ Instant 0ms category switching with memory cache\n✨ Direct in-app EPUB download and library auto-import"
 }
